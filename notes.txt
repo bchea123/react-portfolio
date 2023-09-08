@@ -1,0 +1,4 @@
+VIDEO PROGRESS: 22:50
+
+NOTES:
+    Just finished navbar
