@@ -1,4 +1,4 @@
-VIDEO PROGRESS: 22:50
+VIDEO PROGRESS: 40:40
 
 NOTES:
-    Just finished navbar
+    Just finished home component
