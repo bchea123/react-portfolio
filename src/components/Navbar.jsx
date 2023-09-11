@@ -35,7 +35,6 @@ const Navbar = () => {
         </ul>
 
         {/* Social Icons */}
-        <div></div>
     </div>
   )
 }
