@@ -1,4 +1,4 @@
-VIDEO PROGRESS: 40:40
+VIDEO PROGRESS: 1:00:20
 
 NOTES:
-    Just finished home component
+    Just finished skills component
