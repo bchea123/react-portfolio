@@ -1,4 +1,4 @@
-VIDEO PROGRESS: 1:00:20
+VIDEO PROGRESS: 1:13:20
 
 NOTES:
-    Just finished skills component
+    Working on Projects component
